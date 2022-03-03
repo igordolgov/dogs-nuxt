@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.4.0.3-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="570pt" height="750pt" viewBox="0 -750 570 750">
+ <defs>
+	</defs>
+ <g id="Page background" transform="scale(1 -1)">
+  <rect x="0.001" y="0.001" width="569.998" height="749.999" stroke="none" stroke-width="0"/>
+ </g>
+ <g id="MouseOff" transform="scale(1 -1)">
+  <g id="Group" stroke-linejoin="miter" stroke="#ffffff">
+   <path d="M 343.486,413.206 C 340.08,409.799 334.555,409.799 331.149,413.206 L 299.513,444.843 L 299.513,303.049 C 299.513,298.232 295.605,294.324 290.788,294.324 C 285.971,294.324 282.063,298.232 282.063,303.049 L 282.063,444.843 L 250.426,413.206 C 247.021,409.799 241.495,409.799 238.09,413.206 C 234.682,416.614 234.682,422.137 238.09,425.545 L 284.62,472.075 C 288.025,475.481 293.551,475.481 296.956,472.075 L 343.486,425.545 C 346.894,422.137 346.894,416.614 343.486,413.206 Z" fill="#ffffff" stroke-width="9.022" marker-start="none" marker-end="none"/>
+   <ellipse rx="242.738" ry="242.738" transform="translate(285.924 398.723) rotate(102.99)" stroke-width="18"/>
+  </g>
+ </g>
+</svg>
